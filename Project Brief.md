@@ -23,11 +23,11 @@
 |Dataset|Purpose|Source|
 |-|-|-|
 |**Landsat Collection 2 Level-2**|Land Surface Temperature \& NDVI|[USGS](https://www.usgs.gov/landsat-missions/landsat-collection-2-surface-temperature)|
-|**MODIS MOD11A2**|LST time series/validation|Google Earth Engine|
+|**MODIS MOD11A2**|LST time series/validation|[Google Earth Engine](https://earthengine.google.com/)|
 |**ERA5-Land (maybe)**|Air temperature \& climate variables|[Copernicus CDS](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land)|
 |**CHIRPS**|Rainfall|[Climate Hazards Center](https://www.chc.ucsb.edu/data/chirps3)|
 |**ESA WorldCover**|Land-cover classification|[ESA](https://esa-worldcover.org/en/data-access)|
-|**GHSL Built-up Surface**|Urban/built-up expansion|Google Earth Engine|
+|**GHSL Built-up Surface**|Urban/built-up expansion|[Google Earth Engine](https://earthengine.google.com/)|
 |**geoBoundaries**|Study-area boundary|Available|
 
 
