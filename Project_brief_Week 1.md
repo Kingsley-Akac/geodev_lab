@@ -6,9 +6,6 @@ How are places of worship (churches, mosques, and other religious facilities) di
 ## Study Area
 Port Harcourt LGA and Obio/Akpor LGA, Rivers State, Nigeria — broken down at the ward level (Admin 3) for a more meaningful comparison than just two large LGAs.
 
-## Background / Justification
-Port Harcourt has grown rapidly and unevenly, with some suburbs (particularly in Obio/Akpor) expanding faster than formal planning has kept pace. Community facilities like places of worship tend to follow settlement patterns unevenly — clustering heavily in some neighborhoods while remaining sparse in newer or less-developed ones. This project uses open geospatial data to map that distribution at ward level and produce a simple, reusable tool for exploring facility access by location.
-
 ## What We're Building
 A lightweight **"Nearest Place of Worship" finder** — a single-page map where a user clicks any point in Port Harcourt/Obio-Akpor and instantly sees the nearest place of worship and its distance, plus how many exist within a 1 km radius. Because this only needs point-to-point distance on a small dataset, it can run entirely in the browser:
 1. Export the QGIS places-of-worship layer as GeoJSON.
