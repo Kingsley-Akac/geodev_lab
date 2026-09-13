@@ -13,7 +13,7 @@ Port Harcourt LGA and Obio/Akpor LGA, Rivers State, Nigeria. These two adjoining
 | 1 | Waterways & drainage (rivers, streams, drains, water bodies) | OSM vector (lines/polygons), via QuickOSM in QGIS | https://www.openstreetmap.org |
 | 2 | Residential buildings | OSM vector (polygons), via QuickOSM in QGIS | https://www.openstreetmap.org |
 | 3 | Digital Elevation Model (SRTM, 30m) | Raster | https://earthexplorer.usgs.gov |
-| 4 | Administrative boundaries — (Port Harcourt & Obio/Akpor) | Vector (polygon) | office of the surveyor general rivers state |
+| 4 | Administrative boundaries — (Port Harcourt & Obio/Akpor) | Vector (polygon) | Office of the Surveyor General, Rivers State |
 | 5 *(optional, for validation)* | Historical flood-affected areas by LGA, 2022 (NEMA) | Vector (polygon) / CSV | https://data.humdata.org/dataset/nigeria-nema-flood-affected-geographical-areasnorth-east-nigeria-flood-affected-geographical-areas |
 
 ## Planned Method (brief)
