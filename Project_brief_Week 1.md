@@ -23,10 +23,10 @@ This keeps the "build" piece simple and fully achievable without needing to stan
 |---|---|---|---|
 | 1 | Places of worship (churches, mosques, etc.) | OSM vector (points), via QuickOSM in QGIS — `amenity=place_of_worship` | https://www.openstreetmap.org |
 | 2 | Residential buildings (density proxy) | OSM vector (polygons), via QuickOSM in QGIS — `building=*` | https://www.openstreetmap.org |
-| 3 | Administrative boundaries — Admin 2 (LGA) and Admin 3 (ward) levels | Vector (polygon) | https://data.humdata.org/dataset/cod-ab-nga |
+| 3 | Administrative boundaries | Vector (polygon) | |
 
 ## Planned Method (brief)
-1. Download Admin 2 boundaries, select Port Harcourt and Obio/Akpor, and use them to select the wards (Admin 3) that fall inside these two LGAs.
+1. Get Admin boundaries, select Port Harcourt and Obio/Akpor.
 2. Pull places-of-worship points and building footprints via QuickOSM, clipped to the combined ward area.
 3. Use **Vector → Analysis Tools → Count Points in Polygon** to get the number of places of worship per ward, and again for buildings, to get a simple facilities-per-building ratio for each ward.
 4. Use **Vector → Analysis Tools → Distance to Nearest Hub (points)** to calculate, for each building, the distance to the nearest place of worship — then average this per ward as a simple access metric.
