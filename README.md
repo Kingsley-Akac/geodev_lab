@@ -1,2 +1,2 @@
 # geodev_lab
-Investigating temperature change and urban heat dynamics in Port Harcourt, Nigeria through geospatial analysis.
+Port Harcourt experiences flooding in most rainy seasons, driven by a combination of low elevation, inadequate drainage infrastructure, and rapid, largely unplanned urban development. Independent studies on the metropolis point to a consistent pattern: streets in Obio/Akpor LGA are disproportionately affected compared to Port Harcourt LGA proper. This project uses open geospatial data to test whether a simple elevation-plus-drainage-proximity model reproduces that known pattern, and to identify specific neighborhoods that would most benefit from drainage investment.
