@@ -1,4 +1,4 @@
-# Project Brief — Week 1
+# Project Brief
 
 ## Spatial Question
 How are places of worship (churches, mosques, and other religious facilities) distributed across the wards of Port Harcourt and Obio/Akpor LGAs, Rivers State, Nigeria, relative to residential building density — are some wards oversupplied with closely-clustered facilities while others have relatively few for their number of residents?
