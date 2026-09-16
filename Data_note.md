@@ -1,4 +1,4 @@
-# Data Note — Week 2
+# Data Note
 
 ## Dataset 1: Places of Worship
 
